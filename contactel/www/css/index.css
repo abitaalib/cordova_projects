@@ -1,0 +1,6 @@
+
+.ui-field-contain label, input
+{
+    display: block;
+    margin: 1%;
+}

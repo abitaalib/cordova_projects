@@ -1,0 +1,16 @@
+h1, label, input
+{
+    text-align: center;
+    width: 100%;
+}
+
+label, input
+{
+    display: block;
+    margin: 1%;
+}
+
+fieldset
+{
+    margin-bottom: 20px;
+}
